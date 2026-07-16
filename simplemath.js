@@ -23,4 +23,6 @@ console.log(typeof division);
 console.log('Modulus: ' + modulus);
 console.log(typeof modulus);
 
+console.log('Addition: ' , addition);
+
  
